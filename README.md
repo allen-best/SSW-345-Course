@@ -1,3 +1,3 @@
 # Homework 3
-Hello World
+Below is the attached "Learning Git" completion screenshot.
 ![](images/sw345hw3.png)
